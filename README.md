@@ -1,5 +1,7 @@
 # Progress Steps
 
+**https://anatoliikovalenkopro.github.io/progress-line/**
+
 A simple interactive Progress Steps component built with HTML, CSS, and JavaScript.
 
 This project was created as part of **Brad Traversy's "50 Projects in 50 Days – HTML, CSS & JavaScript"** course to practice DOM manipulation, event handling, and responsive UI design.
